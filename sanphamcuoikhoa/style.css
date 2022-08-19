@@ -1,0 +1,15 @@
+.row{
+    margin: 0px 1px;
+    padding: 8px;
+    background-color: white;
+}
+.content{
+    padding: 10px;
+    border: 1px solid gray;
+}
+div{
+    display: inline-block;
+}
+a{
+    color: blue;
+}
